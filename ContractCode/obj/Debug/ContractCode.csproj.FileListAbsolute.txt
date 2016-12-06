@@ -1,0 +1,8 @@
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\bin\Debug\ContractCode.exe.config
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\bin\Debug\ContractCode.exe
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\bin\Debug\ContractCode.pdb
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\obj\Debug\ContractCode.exe
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\obj\Debug\ContractCode.pdb
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\obj\Debug\Decl\ContractCode.exe
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\obj\Debug\Decl\ContractCode.pdb
+c:\users\redrose\documents\visual studio 2015\Projects\ContractCode\ContractCode\obj\Debug\CodeContractAnalysisRun.log
