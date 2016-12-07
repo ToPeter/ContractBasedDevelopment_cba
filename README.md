@@ -14,3 +14,7 @@ Use Code Contracts to enforce Design by ContractTM principles. Also create a
 small program, that uses the account class.
 The report should besides from a git url to the project include a short textual
 description on how the code contract should be interpreted.
+
+##TOBIAS WORK
+
+-short textual description on how the code contract should be interpreted
