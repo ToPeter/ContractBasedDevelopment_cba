@@ -15,15 +15,16 @@ small program, that uses the account class.
 The report should besides from a git url to the project include a short textual
 description on how the code contract should be interpreted.
 
-Description:
+# Description:
 
 The code contract improves the testability of the project and can detect if 
 preconditions are not met even before you run the project. This can ensure that
 the preconditions are met before you test the rest of the method, so you 
-don't make stupid calls in the testing classes. In our case we ensure that when
-we set the field balance in the Account-class, it cannot be below zero. And we 
-made sure the withdraw-method uses the field's setter. Other stuff that would
-make sense to use in the contract is that neither the withdraw or deposit 
-methods should accept negative numbers and ensure that both the constructor,
+don't make stupid calls in the testing classes.
+
+In our case we ensure that when we set the field balance in the Account-class, 
+it cannot be below zero. And we made sure the withdraw-method uses the field's setter. 
+Other stuff that would make sense to use in the contract is that neither the withdraw 
+or deposit methods should accept negative numbers and ensure that both the constructor,
 field and both methods should throw some invalid argument exceptions of some
 sort, when bad calls are made.
